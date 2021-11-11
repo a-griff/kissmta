@@ -3,7 +3,7 @@ KissMTA is an e-mail server with the goal of being easy to setup and manage.  It
 
 One of the goals is to write it to be as portable as possible using the least number of 3rd partyPerl modules.
 
-The goal is to add accounts into the accounts.cfg to enable mail handling in this format:
+The goal is to add accounts into the accounts.cfg to enable mail handling in this format (if it's in the cfg file, the MTA will accept and send for that account):
 
 bob@xxyyzz.com|RNv6rQhpy1jmkint(password hash)
 jim@hilpeg.com|RCalqVNztH_GxWn_
