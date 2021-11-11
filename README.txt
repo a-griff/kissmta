@@ -1,13 +1,13 @@
 GENERAL:
 KissMTA is an e-mail server with the goal of being easy to setup and manage.  It's written in Perl and is developed on a Linux system. Since it's goal is to be simple, there should be no problem getting it to run on other *nix systems.
 
-One of the goals is to write it to be as portable as possible using the most common Perl modules.
+One of the goals is to write it to be as portable as possible using the least number of 3rd partyPerl modules.
 
 
 
 VERSION:
-kissmta-0.0.01 - RECIEVE ONLY smtp server.
-kisspop-0.0.01 - Incomplete pop server for testing.
+kissmta-0.0.03 - RECIEVE ONLY smtp server (will be upgraded to full MTA).
+kisspop-0.0.01 - Incomplete pop server for testing. It works but it does not support all POP functions (yet).
 
 
 
