@@ -1,0 +1,6 @@
+kissmta-0.0.01.pl - The MTA.  Currently this recieves mail and writes it to KISSMTA folders.
+
+kisspop-0.0.01.pl - A basic POP server. Used for testing. Logins are clear text and all POP commands are not supported.
+
+accounts.cfg - A flat text file that lists vaild usernames, passwords and email addresses.
+
